@@ -1,0 +1,8 @@
+from_node,to_node,distance_km
+Depot,Hub_A,4
+Depot,Hub_B,8
+Hub_A,Hub_B,3
+Hub_A,Hub_C,7
+Hub_B,Hub_C,2
+Hub_B,Hub_D,5
+Hub_C,Hub_D,4

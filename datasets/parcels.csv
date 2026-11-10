@@ -1,0 +1,9 @@
+parcel_id,weight_kg,priority_score,deadline_hours,destination_node
+P1,5,40,2,Hub_A
+P2,10,60,4,Hub_B
+P3,12,70,1,Hub_C
+P4,8,50,3,Hub_B
+P5,4,30,5,Hub_A
+P6,15,90,2,Hub_D
+P7,6,45,6,Hub_C
+P8,9,55,3,Hub_D
